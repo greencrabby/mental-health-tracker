@@ -1,1 +1,1 @@
-Repository for pbp24 tutorial 0
+Repository for pbp24 tutorial
